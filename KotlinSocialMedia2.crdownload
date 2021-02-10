@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306155246398",
+    "project_id": "kotlin-social-media-2",
+    "storage_bucket": "kotlin-social-media-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306155246398:android:b01275758eb23ea8a3926f",
+        "android_client_info": {
+          "package_name": "com.example.kotlinsocialmedia2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306155246398-n1ml8ooc5pscjoisq6skl3b866du4hdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIOlaFtA2p3iBXcgzsTzHaXUXBjoaugA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306155246398-n1ml8ooc5pscjoisq6skl3b866du4hdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
